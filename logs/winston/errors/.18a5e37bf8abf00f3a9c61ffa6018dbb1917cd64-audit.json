@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\projects\\university-management-core-service\\logs\\winston\\errors\\.18a5e37bf8abf00f3a9c61ffa6018dbb1917cd64-audit.json",
+    "files": [
+        {
+            "date": 1692424009009,
+            "name": "C:\\projects\\university-management-core-service\\logs\\winston\\errors\\phu-2023-19-08-11-error.log",
+            "hash": "7e32a6aa25c9ed3bfb6f89fbdcf31a9abaa491256d4d6ac696c27d14fd38c84f"
+        },
+        {
+            "date": 1692424913774,
+            "name": "C:\\projects\\university-management-core-service\\logs\\winston\\errors\\phu-2023-19-08-12-error.log",
+            "hash": "ed948827f98b748181cef8de85ec88ea86396ca3a3d56290dc3cfe3ec097bf25"
+        }
+    ],
+    "hashType": "sha256"
+}
