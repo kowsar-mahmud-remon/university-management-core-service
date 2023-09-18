@@ -6,24 +6,24 @@
     "auditLog": "I:\\Web Development\\projects 03\\university-management-core-service\\logs\\winston\\errors\\.7e72a28630d02d30d574d46a525ec904eae1cc5a-audit.json",
     "files": [
         {
-            "date": 1692796334892,
-            "name": "I:\\Web Development\\projects 03\\university-management-core-service\\logs\\winston\\errors\\phu-2023-23-08-19-error.log",
-            "hash": "921a61238b90ff7e057d4131512b250ceb0172c87459d726c2112998752dda50"
+            "date": 1694842750913,
+            "name": "I:\\Web Development\\projects 03\\university-management-core-service\\logs\\winston\\errors\\phu-2023-16-09-11-error.log",
+            "hash": "e4f4a3348baab53ae2748414ecb526d62befee647d01985ade7e7ceab10b7368"
         },
         {
-            "date": 1692800467723,
-            "name": "I:\\Web Development\\projects 03\\university-management-core-service\\logs\\winston\\errors\\phu-2023-23-08-20-error.log",
-            "hash": "0e44dba3edac5041e630c47e930b397f05c857ba783e5d678c48464217d0243e"
+            "date": 1694846877139,
+            "name": "I:\\Web Development\\projects 03\\university-management-core-service\\logs\\winston\\errors\\phu-2023-16-09-12-error.log",
+            "hash": "73a3591dbdff01175a5a9b40c801508058952279d99806ca62e46a066358897d"
         },
         {
-            "date": 1692802948265,
-            "name": "I:\\Web Development\\projects 03\\university-management-core-service\\logs\\winston\\errors\\phu-2023-23-08-21-error.log",
-            "hash": "aa6f4510989e59378b7bfafe225c8125a4abd66ba1627fd17ea6ed6f5e77a13a"
+            "date": 1695011340689,
+            "name": "I:\\Web Development\\projects 03\\university-management-core-service\\logs\\winston\\errors\\phu-2023-18-09-10-error.log",
+            "hash": "1b12183a2913d31719ffcd6808c7970575fe7fd218729f6f30ae9419eda8f309"
         },
         {
-            "date": 1693492229263,
-            "name": "I:\\Web Development\\projects 03\\university-management-core-service\\logs\\winston\\errors\\phu-2023-31-08-20-error.log",
-            "hash": "714d3d06ac76cfc880b81cbac75844f038f14333951d67cc1d85fb58c96a3035"
+            "date": 1695033708192,
+            "name": "I:\\Web Development\\projects 03\\university-management-core-service\\logs\\winston\\errors\\phu-2023-18-09-16-error.log",
+            "hash": "67ca7fa9d5ea54b5abe595a3f067dfe292ad8c4058944b321a2048e93e31ea3c"
         }
     ],
     "hashType": "sha256"
